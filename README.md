@@ -6,7 +6,7 @@ This project analyzes a dataset of accidents in the United States to uncover pat
 
 ## Dataset
 
-The dataset used for this analysis is the "US Accidents (March 2023) - Sampled 500K" dataset, which includes the following key columns:
+The [dataset](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) used for this analysis is the "US Accidents (March 2023) - Sampled 500K" dataset, which includes the following key columns:
 
 - **ID**: Unique identifier for each accident.
 - **Severity**: The severity of the accident, ranging from 1 (low) to 4 (high).
